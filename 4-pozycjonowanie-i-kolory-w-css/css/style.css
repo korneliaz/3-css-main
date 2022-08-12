@@ -1,0 +1,12 @@
+.container {
+    width: 460px;
+    height: 460px;
+    background-color: rgb(9, 130, 236);
+    
+}
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    
+}
